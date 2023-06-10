@@ -90,9 +90,8 @@ activity_main.xml:
             app:layout_constraintStart_toStartOf="parent"
             tools:ignore="HardcodedText,MissingConstraints,VisualLintButtonSize" />
     </androidx.constraintlayout.widget.ConstraintLayout>
-    ```
-    
-MainActivity.java :  
+```    
+MainActivity.java : 
 
 ```
 package com.example.labexp2;
